@@ -21,3 +21,25 @@ html{
     width: fit-content;
     margin: auto;
 }
+.recipe {
+    border: 7px solid green;
+    padding: 15px;
+    background-color: aquamarine;
+}
+#toyboxtorta{
+   background-image: url(./recipes/img/Toyboxtorta.webp);
+   background-size:cover;
+   background-position-y: center;
+}
+#smkdcabb{
+    background-image: url();
+    background-size:cover;
+    background-position-y: center;
+ }
+}
+#ccltonic{
+    background-image: url();
+    background-size:cover;
+    background-position-y: center;
+ }
+}
