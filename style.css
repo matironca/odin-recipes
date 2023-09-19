@@ -1,14 +1,18 @@
 html{
     background-color: greenyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #maintitle{
     text-align: center;
     font-weight: 500;
     font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
     border: 15px solid green;
     background-size: contain;
     padding: 20px;
    background-color: aqua;
    width: fit-content;
    margin: auto ;
+
 }
