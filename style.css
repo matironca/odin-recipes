@@ -16,3 +16,8 @@ html{
    margin: auto ;
 
 }
+.recipelist{
+    padding: 45px;
+    width: fit-content;
+    margin: auto;
+}
