@@ -1,5 +1,5 @@
 html{
-    background-color: greenyellow;
+    background-color: rgb(64, 89, 149);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #maintitle{
@@ -27,7 +27,7 @@ html{
     background-color: aquamarine;
 }
 #toyboxtorta{
-   background-image: url(./recipes/img/Toyboxtorta.webp);
+  
    background-size:cover;
    background-position-y: center;
 }
@@ -36,10 +36,9 @@ html{
     background-size:cover;
     background-position-y: center;
  }
-}
+
 #ccltonic{
     background-image: url();
     background-size:cover;
     background-position-y: center;
  }
-}
