@@ -16,6 +16,10 @@ html{
    margin: auto ;
 
 }
+#homebutton{
+
+    
+}
 .recipelist{
     padding: 45px;
     width: fit-content;
@@ -61,6 +65,7 @@ html{
     width: 766px;
     margin-left: auto;
     margin-right: auto;
+    
 }
 .subtitle{
    
