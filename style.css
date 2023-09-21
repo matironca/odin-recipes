@@ -17,15 +17,15 @@ html{
 
 }
 #homebutton{
+    background-color:  aquamarine;
 
-    
 }
 .recipelist{
     padding: 45px;
     width: fit-content;
     margin: auto;
 }
-.recipe {
+.recipe  {
     border: 7px solid green;
     padding: 15px;
     background-color: aquamarine;
