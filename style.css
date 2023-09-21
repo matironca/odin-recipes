@@ -58,7 +58,16 @@ html{
 }
 .recipecontent{
     padding: 15px;
-    width: 333px;
+    width: 766px;
     margin-left: auto;
     margin-right: auto;
+}
+.subtitle{
+   
+    background-color: aquamarine;
+    border: 7px solid rgb(63, 171, 63);
+}
+.subtitlecontent{
+    background-color: rgb(172, 255, 227);
+    border: 7px solid green;
 }
