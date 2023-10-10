@@ -1,3 +1,7 @@
+*{
+    font-weight: 550;
+    box-sizing: border-box;
+}
 html{
     background-color: rgb(64, 89, 149);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -22,13 +26,20 @@ html{
 }
 .recipelist{
     padding: 45px;
-    width: fit-content;
+    width: 800px;
     margin: auto;
+    justify-content: center;
+    display: flex;
 }
 .recipe  {
     border: 7px solid green;
-    padding: 15px;
+    padding: 65px 8px;
     background-color: aquamarine;
+    list-style: none;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin-right: 20px;
 }
 #toyboxtorta{
   
@@ -75,4 +86,8 @@ html{
 .subtitlecontent{
     background-color: rgb(172, 255, 227);
     border: 7px solid green;
+}
+.link:hover {
+    font-weight: bolder;
+   color: black;
 }
