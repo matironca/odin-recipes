@@ -13,6 +13,7 @@ html{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
     border: 15px solid green;
+    border-radius: 15px;
     background-size: contain;
     padding: 20px;
    background-color: aqua;
@@ -33,6 +34,7 @@ html{
 }
 .recipe  {
     border: 7px solid green;
+    border-radius: 10px;
     padding: 65px 8px;
     background-color: aquamarine;
     list-style: none;
@@ -40,6 +42,7 @@ html{
     height: 200px;
     text-align: center;
     margin-right: 20px;
+
 }
 #toyboxtorta{
   
