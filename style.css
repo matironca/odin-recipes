@@ -59,12 +59,13 @@ font-size: 75px;
 }
 .recipe:hover{
     height: 222px;
-    width: 210px;
+    width: 222px;
     margin-left: -16px;
     /*Bugged bottom margin <3*/
     margin-bottom: -150px;
     margin-top: -16px;
     margin-right: 0;
+    font-size: larger;
 }
 #toyboxtorta{
   
